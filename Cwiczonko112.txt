@@ -1,3 +1,4 @@
 ale tutaj tekstu w pierwszej liniii
-Ale drugie tyle tekstu w drugiej linii
+Spustoczenie
 Tyyyyyyyyyyyyyyyle lini w trzeciej
+Wiêcej tekstu w lini czwartej
