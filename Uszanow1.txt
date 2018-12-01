@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaa
 
+=======
+WOW Much Dog
+>>>>>>> origin/branchTymona
 Hello Dog
+So polite
 
 BBBBBBBBBBBBBB
 121212121

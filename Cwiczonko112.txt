@@ -1,5 +1,6 @@
 ale tutaj tekstu w pierwszej liniii
 
+
 Adrian zmiany w drugiej linii.
 Tyyyyyyyyyyyyyyyle lini w trzeciej
 
@@ -7,4 +8,9 @@ Tyyyyyyyyyyyyyyyle lini w trzeciej
 Tyyyyyyyyyyyyyyyle lini w trzeciej
 323232323
 555555555555555555555
+
+
+Spustoczenie zostaje
+Tyyyyyyyyyyyyyyyle lini w trzeciej
+Wiêcej tekstu w lini czwartej
 
